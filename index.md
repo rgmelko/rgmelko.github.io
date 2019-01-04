@@ -1,37 +1,29 @@
-## Welcome to Roger Melko's GitHub Pages
+## Roger G. Melko
 
-You can use the [editor on GitHub](https://github.com/rgmelko/rgmelko.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Professor, [University of Waterloo](https://uwaterloo.ca/physics-astronomy/people-profiles/roger-melko)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Associate Faculty Member, [Perimeter Institute for Theoretical Physics](https://www.perimeterinstitute.ca/people/roger-melko)
 
-### Markdown
+[Canada Research Chair](http://www.chairs-chaires.gc.ca/chairholders-titulaires/profile-eng.aspx?profileId=3084) in Computational Quantum Many-Body Physics
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Computing the world of quantum matter
 
-# Header 1
-## Header 2
-### Header 3
+Our research interests involve strongly-correlated many-body systems. We emphasize computational methods as a theoretical technique, in particular the development of state-of-the-art algorithms for the study of strongly-interacting systems. Our work has employed Monte Carlo simulations, Density Matrix Renormalization Group, and related methods to explore the low-temperature physics of classical and quantum magnetic materials, cold atoms in optical lattices, bosonic fluids and low-dimensional systems. I am particularly involved in studying microscopic models that display interesting quantum behavior in the bulk, such as superconducting, spin liquid, topological, superfluid or supersolid phases. We are also interested in broader ideas in computational physics, the development of efficient algorithms for simulating quantum mechanical systems on classical computers, including machine learning, and the relationship of these methods to the field of quantum information science.
 
-- Bulleted
-- List
+## Research Interests
+- Entanglement in condensed matter
+- Machine learning in physics
+- Unconventional quantum phase transitions
+- Frustrated quantum magnetism
+- Novel numerical techniques
 
-1. Numbered
-2. List
+## Current Graduate Students
+- Bohdan Kulchytskyy
+- Matt Beach
+- Anna Golubeva
 
-**Bold** and _Italic_ and `Code` text
+## News and Links
+-[Quantum Machine Learning](https://insidetheperimeter.ca/quantum-machine-learning/) 
+-[Intelligent Machines are Teaching Themselves Quantum Physics](https://motherboard.vice.com/en_us/article/vvxgja/machine-learning-quantum-physics-perimeter-institute-roger-melko)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rgmelko/rgmelko.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
