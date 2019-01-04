@@ -1,23 +1,27 @@
 ## Roger G. Melko
+![Roger G. Melko](/assets/fishing.jpg)
 
-Professor, [University of Waterloo](https://uwaterloo.ca/physics-astronomy/people-profiles/roger-melko)
 
-Associate Faculty Member, [Perimeter Institute for Theoretical Physics](https://www.perimeterinstitute.ca/people/roger-melko)
+[Professor](https://uwaterloo.ca/physics-astronomy/people-profiles/roger-melko), University of Waterloo
+
+[Associate Faculty Member](https://www.perimeterinstitute.ca/people/roger-melko), Perimeter Institute for Theoretical Physics
 
 [Canada Research Chair](http://www.chairs-chaires.gc.ca/chairholders-titulaires/profile-eng.aspx?profileId=3084) in Computational Quantum Many-Body Physics
 
-*Affiliations*
+**Affiliations**
 - [Faculty Affiliate](https://vectorinstitute.ai/2018/09/24/vector-institute-introduces-faculty-affiliates/), Vector Institute for Artificial Intelligence
 - [Chief Scientist](https://www.creativedestructionlab.com/people/roger-melko/), Creative Destruction Labs
 - [Affiliate](https://services.iqc.uwaterloo.ca/people/profile/rmelko/), Institue for Quantum Computing
 
 ### Computing the world of quantum matter
 
-Our research interests involve strongly-correlated many-body systems. We emphasize computational methods as a theoretical technique, in particular the development of state-of-the-art algorithms for the study of strongly-interacting systems. Our work has employed Monte Carlo simulations, Density Matrix Renormalization Group, and related methods to explore the low-temperature physics of classical and quantum magnetic materials, cold atoms in optical lattices, bosonic fluids and low-dimensional systems. I am particularly involved in studying microscopic models that display interesting quantum behavior in the bulk, such as superconducting, spin liquid, topological, superfluid or supersolid phases. We are also interested in broader ideas in computational physics, the development of efficient algorithms for simulating quantum mechanical systems on classical computers, including machine learning, and the relationship of these methods to the field of quantum information science.
+We perform research on strongly correlated quantum many-body systems, with an emphasis on computational methods as a theoretical technique. 
+Our work includes the development of state-of-the-art algorithms and codes for the study of quantum matter, materials and devices.
+We are also interested in broader ideas in computational physics, the theory of efficient simulations of quantum mechanics on classical computers, and the relationship of these methods to the field of quantum information science.
 
 ## Research Interests
 - Entanglement in condensed matter
-- Machine learning in physics
+- Machine learning in quantum physics
 - Unconventional quantum phase transitions
 - Frustrated quantum magnetism
 - Novel numerical techniques
@@ -25,17 +29,17 @@ Our research interests involve strongly-correlated many-body systems. We emphasi
 ## Graduate Students
 
 ### Current
-- Bohdan Kulchytskyy
-- Matt Beach
-- Anna Golubeva
+- [Bohdan Kulchytskyy](https://uwaterloo.ca/physics-astronomy/about/people/bkulchyt)
+- [Matt Beach](https://uwaterloo.ca/physics-astronomy/about/people/jmschulz)
+- [Anna Golubeva](https://uwaterloo.ca/physics-astronomy/about/people/anna-golubeva)
 
 ### Past
-- Giacomo Torlai
-- Pedro Ponte
-- Lauren Hayward Sierens
-- Jason Iaconis
-- Ann Kallin
-- Stephen Inglis
+- [Giacomo Torlai](https://uwspace.uwaterloo.ca/handle/10012/14196)
+- [Pedro Ponte](https://uwspace.uwaterloo.ca/handle/10012/13035)
+- [Lauren Hayward Sierens](https://uwspace.uwaterloo.ca/handle/10012/11897)
+- [Jason Iaconis](https://uwspace.uwaterloo.ca/handle/10012/6966)
+- [Ann Kallin](https://uwspace.uwaterloo.ca/handle/10012/8539)
+- [Stephen Inglis](https://uwspace.uwaterloo.ca/handle/10012/7940)
 
 ## News and Links
 
