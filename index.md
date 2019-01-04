@@ -6,6 +6,10 @@ Associate Faculty Member, [Perimeter Institute for Theoretical Physics](https://
 
 [Canada Research Chair](http://www.chairs-chaires.gc.ca/chairholders-titulaires/profile-eng.aspx?profileId=3084) in Computational Quantum Many-Body Physics
 
+*Affiliations*
+- [Faculty Affiliate](https://vectorinstitute.ai/2018/09/24/vector-institute-introduces-faculty-affiliates/), Vector Institute for Artificial Intelligence
+- [Chief Scientist](https://www.creativedestructionlab.com/people/roger-melko/), Creative Destruction Labs
+- [Affiliate](https://services.iqc.uwaterloo.ca/people/profile/rmelko/), Institue for Quantum Computing
 
 ### Computing the world of quantum matter
 
@@ -18,12 +22,27 @@ Our research interests involve strongly-correlated many-body systems. We emphasi
 - Frustrated quantum magnetism
 - Novel numerical techniques
 
-## Current Graduate Students
+## Graduate Students
+
+### Current
 - Bohdan Kulchytskyy
 - Matt Beach
 - Anna Golubeva
 
-## News and Links
--[Quantum Machine Learning](https://insidetheperimeter.ca/quantum-machine-learning/) 
--[Intelligent Machines are Teaching Themselves Quantum Physics](https://motherboard.vice.com/en_us/article/vvxgja/machine-learning-quantum-physics-perimeter-institute-roger-melko)
+### Past
+- Giacomo Torlai
+- Pedro Ponte
+- Lauren Hayward Sierens
+- Jason Iaconis
+- Ann Kallin
+- Stephen Inglis
 
+## News and Links
+
+- [Quantum Machine Learning](https://insidetheperimeter.ca/quantum-machine-learning/)
+- [Intelligent Machines are Teaching Themselves Quantum Physics](https://motherboard.vice.com/en_us/article/vvxgja/machine-learning-quantum-physics-perimeter-institute-roger-melko)
+- [The most complex problem in physics could be solved by machines with brains](https://qz.com/897033/applying-machine-learning-to-physics-could-be-the-way-to-build-the-first-quantum-computer/)
+- [AI physicists: The machines cracking the quantum code](https://www.newscientist.com/article/mg23631490-400-ai-physicists-the-machines-cracking-the-quantum-code/)
+- [Three Ways Physics Could Help Save Humanity](http://insidetheperimeter.ca/three-ways-physics-could-help-save-humanity/)
+- [Waterloo and Harvard physicists' eureka moment](https://uwaterloo.ca/science/news/waterloo-and-harvard-physicists-eureka-moment)
+- [University of Waterloo prof finds way to split virtual electron](http://www.therecord.com/news-story/2595812-uw-prof-finds-way-to-split-virtual-electron/)
