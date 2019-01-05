@@ -1,11 +1,15 @@
 # Roger G. Melko
 ![Roger G. Melko](/assets/fishing.jpg)
 
-<SPAN STYLE="font-size: 14pt;font-weight:bold">
-[Professor](https://uwaterloo.ca/physics-astronomy/people-profiles/roger-melko), University of Waterloo
+<SPAN STYLE="font-size: 13pt;font-weight:bold">
+[Professor](https://uwaterloo.ca/physics-astronomy/people-profiles/roger-melko), Department of Physics & Astronomy, University of Waterloo
+</SPAN>
 
-[Associate Faculty Member](https://www.perimeterinstitute.ca/people/roger-melko), Perimeter Institute for Theoretical Physics
+<SPAN STYLE="font-size: 13pt;font-weight:bold">
+[Associate Faculty](https://www.perimeterinstitute.ca/people/roger-melko), Perimeter Institute for Theoretical Physics
+</SPAN>
 
+<SPAN STYLE="font-size: 13pt;font-weight:bold">
 [Canada Research Chair](http://www.chairs-chaires.gc.ca/chairholders-titulaires/profile-eng.aspx?profileId=3084) in Computational Quantum Many-Body Physics
 </SPAN>
 
