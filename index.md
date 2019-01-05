@@ -1,6 +1,5 @@
-## Roger G. Melko
+# Roger G. Melko
 ![Roger G. Melko](/assets/fishing.jpg)
-
 
 [Professor](https://uwaterloo.ca/physics-astronomy/people-profiles/roger-melko), University of Waterloo
 
@@ -13,13 +12,13 @@
 - [Chief Scientist](https://www.creativedestructionlab.com/people/roger-melko/), Creative Destruction Labs
 - [Affiliate](https://services.iqc.uwaterloo.ca/people/profile/rmelko/), Institue for Quantum Computing
 
-### Computing the world of quantum matter
+## Computing the world of quantum matter
 
 We perform research on strongly correlated quantum many-body systems, with an emphasis on computational methods as a theoretical technique. 
 Our work includes the development of state-of-the-art algorithms and codes for the study of quantum matter, materials and devices.
 We are also interested in broader ideas in computational physics, the theory of efficient simulations of quantum mechanics on classical computers, and the relationship of these methods to the field of quantum information science.
 
-## Research Interests
+### Research Interests
 - Entanglement in condensed matter
 - Machine learning in quantum physics
 - Unconventional quantum phase transitions
@@ -41,7 +40,15 @@ We are also interested in broader ideas in computational physics, the theory of 
 - [Ann Kallin](https://uwspace.uwaterloo.ca/handle/10012/8539)
 - [Stephen Inglis](https://uwspace.uwaterloo.ca/handle/10012/7940)
 
-## News and Links
+### Future
+[University of Waterloo](https://uwaterloo.ca/physics-astronomy/graduate-studies)
+
+## Links
+- [Perimeter Institute Quantum Intelligence Lab](https://github.com/PIQuIL)
+- [ <PHYSICS|MACHINE LEARNING> ](https://physicsml.github.io)
+ 
+
+## In the News
 
 - [Quantum Machine Learning](https://insidetheperimeter.ca/quantum-machine-learning/)
 - [Intelligent Machines are Teaching Themselves Quantum Physics](https://motherboard.vice.com/en_us/article/vvxgja/machine-learning-quantum-physics-perimeter-institute-roger-melko)
