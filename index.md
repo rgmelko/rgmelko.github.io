@@ -12,6 +12,8 @@
 - [Chief Scientist](https://www.creativedestructionlab.com/people/roger-melko/), Creative Destruction Labs
 - [Affiliate](https://services.iqc.uwaterloo.ca/people/profile/rmelko/), Institue for Quantum Computing
 
+***
+
 ## Computing the world of quantum matter
 
 We perform research on strongly correlated quantum many-body systems, with an emphasis on computational methods as a theoretical technique. 
@@ -41,11 +43,11 @@ We are also interested in broader ideas in computational physics, the theory of 
 - [Stephen Inglis](https://uwspace.uwaterloo.ca/handle/10012/7940)
 
 ### Future
-[University of Waterloo](https://uwaterloo.ca/physics-astronomy/graduate-studies)
+- Apply for graduate studies through the [University of Waterloo](https://uwaterloo.ca/physics-astronomy/graduate-studies)
 
 ## Links
 - [Perimeter Institute Quantum Intelligence Lab](https://github.com/PIQuIL)
-- [ <PHYSICS|MACHINE LEARNING> ](https://physicsml.github.io)
+- [ PHYSICS|MACHINE LEARNING](https://physicsml.github.io)
  
 
 ## In the News
