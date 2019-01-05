@@ -1,11 +1,11 @@
 # Roger G. Melko
 ![Roger G. Melko](/assets/fishing.jpg)
 
+<SPAN STYLE="font-size: 12pt">
 [Professor](https://uwaterloo.ca/physics-astronomy/people-profiles/roger-melko), University of Waterloo
-
 [Associate Faculty Member](https://www.perimeterinstitute.ca/people/roger-melko), Perimeter Institute for Theoretical Physics
-
 [Canada Research Chair](http://www.chairs-chaires.gc.ca/chairholders-titulaires/profile-eng.aspx?profileId=3084) in Computational Quantum Many-Body Physics
+</SPAN>
 
 **Affiliations**
 - [Faculty Affiliate](https://vectorinstitute.ai/2018/09/24/vector-institute-introduces-faculty-affiliates/), Vector Institute for Artificial Intelligence
@@ -18,7 +18,7 @@
 
 We perform research on strongly correlated quantum many-body systems, with an emphasis on computational methods as a theoretical technique. 
 Our work includes the development of state-of-the-art algorithms and codes for the study of quantum matter, materials and devices.
-We are also interested in broader ideas in computational physics, the theory of efficient simulations of quantum mechanics on classical computers, and the relationship of these methods to the field of quantum information science.
+We are also interested in broader ideas in computational physics, the theory of efficient simulations of quantum mechanics on classical computers, and its relationship to the field of quantum information science.
 
 ### Research Interests
 - Entanglement in condensed matter
@@ -26,6 +26,8 @@ We are also interested in broader ideas in computational physics, the theory of 
 - Unconventional quantum phase transitions
 - Frustrated quantum magnetism
 - Novel numerical techniques
+
+***
 
 ## Graduate Students
 
@@ -45,12 +47,14 @@ We are also interested in broader ideas in computational physics, the theory of 
 ### Future
 - Apply for graduate studies through the [University of Waterloo](https://uwaterloo.ca/physics-astronomy/graduate-studies)
 
+***
+
 ## Links
 - [Perimeter Institute Quantum Intelligence Lab](https://github.com/PIQuIL)
-- [ PHYSICS|MACHINE LEARNING](https://physicsml.github.io)
+- [Physics/Machine Learning Group Blog](https://physicsml.github.io)
+- [KITP program: Machine Learning for Quantum Many-Body Physics](https://www.kitp.ucsb.edu/activities/machine19)
  
-
-## In the News
+### In the News
 
 - [Quantum Machine Learning](https://insidetheperimeter.ca/quantum-machine-learning/)
 - [Intelligent Machines are Teaching Themselves Quantum Physics](https://motherboard.vice.com/en_us/article/vvxgja/machine-learning-quantum-physics-perimeter-institute-roger-melko)
