@@ -38,11 +38,14 @@ We are also interested in broader ideas in computational physics, the theory of 
 ## Graduate Students
 
 ### Current
-- [Bohdan Kulchytskyy](https://uwaterloo.ca/physics-astronomy/about/people/bkulchyt)
-- [Matt Beach](https://uwaterloo.ca/physics-astronomy/about/people/jmschulz)
-- [Anna Golubeva](https://uwaterloo.ca/physics-astronomy/about/people/anna-golubeva)
+- [Matt Beach](https://www.perimeterinstitute.ca/people/matthew-beach)
+- [Anna Golubeva](https://perimeterinstitute.ca/news/anna-golubeva-wins-nserc-brassard-prize)
+- [Xiuzhe (Roger) Luo] (http://rogerluo.me)
+- [Ejaaz Merali](https://github.com/emerali)
+- [Isaac De Vlugt] (https://uwaterloo.ca/science/alumni-and-friends/science-alumni-awards/science-alumni-gold-medal-award)
 
 ### Past
+- [Bohdan Kulchytskyy](https://uwspace.uwaterloo.ca/handle/10012/15006)
 - [Giacomo Torlai](https://uwspace.uwaterloo.ca/handle/10012/14196)
 - [Pedro Ponte](https://uwspace.uwaterloo.ca/handle/10012/13035)
 - [Lauren Hayward Sierens](https://uwspace.uwaterloo.ca/handle/10012/11897)
