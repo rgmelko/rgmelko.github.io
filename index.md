@@ -38,7 +38,7 @@ We are also interested in broader ideas in computational physics, the theory of 
 ## Graduate Students
 
 ### Current
-- [Matt Beach](https://www.perimeterinstitute.ca/people/matthew-beach)
+- [Matt Beach](https://mbeach42.github.io)
 - [Anna Golubeva](https://perimeterinstitute.ca/news/anna-golubeva-wins-nserc-brassard-prize)
 - [Xiuzhe (Roger) Luo](http://rogerluo.me)
 - [Ejaaz Merali](https://github.com/emerali)
