@@ -40,9 +40,9 @@ We are also interested in broader ideas in computational physics, the theory of 
 ### Current
 - [Matt Beach](https://www.perimeterinstitute.ca/people/matthew-beach)
 - [Anna Golubeva](https://perimeterinstitute.ca/news/anna-golubeva-wins-nserc-brassard-prize)
-- [Xiuzhe (Roger) Luo] (http://rogerluo.me)
+- [Xiuzhe (Roger) Luo](http://rogerluo.me)
 - [Ejaaz Merali](https://github.com/emerali)
-- [Isaac De Vlugt] (https://uwaterloo.ca/science/alumni-and-friends/science-alumni-awards/science-alumni-gold-medal-award)
+- [Isaac De Vlugt](https://uwaterloo.ca/science/alumni-and-friends/science-alumni-awards/science-alumni-gold-medal-award)
 
 ### Past
 - [Bohdan Kulchytskyy](https://uwspace.uwaterloo.ca/handle/10012/15006)
@@ -59,9 +59,10 @@ We are also interested in broader ideas in computational physics, the theory of 
 ***
 
 ## Links
-- [Perimeter Institute Quantum Intelligence Lab](https://github.com/PIQuIL)
+- [Perimeter Institute Quantum Intelligence Lab](https://www.perimeterinstitute.ca/research/research-initiatives/perimeter-institute-quantum-intelligence-lab-piquil)
+- [PIQuIL software](https://github.com/PIQuIL)
 - [Physics/Machine Learning Group Blog](https://physicsml.github.io)
-- [KITP program: Machine Learning for Quantum Many-Body Physics](https://www.kitp.ucsb.edu/activities/machine19)
+- [KITP Machine Learning for Quantum Many-Body Physics](https://machine19.github.io)
  
 ### In the News
 
