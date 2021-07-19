@@ -14,8 +14,9 @@
 </SPAN>
 
 **Affiliations**
+- [Scientific Lead](https://perimeterinstitute.ca/perimeter-institute-quantum-intelligence-lab-piquil), Perimeter Institute Quantum Intelligence Lab
 - [Faculty Affiliate](https://vectorinstitute.ai/2018/09/24/vector-institute-introduces-faculty-affiliates/), Vector Institute for Artificial Intelligence
-- [Chief Scientist](https://www.creativedestructionlab.com/people/roger-melko/), Creative Destruction Labs
+- [Scientific Lead](https://www.creativedestructionlab.com/people/roger-melko/), Creative Destruction Labs
 - [Affiliate](https://services.iqc.uwaterloo.ca/people/profile/rmelko/), Institue for Quantum Computing
 
 ***
@@ -38,13 +39,14 @@ We are also interested in broader ideas in computational physics, the theory of 
 ## Graduate Students
 
 ### Current
-- [Matt Beach](https://mbeach42.github.io)
-- [Anna Golubeva](https://perimeterinstitute.ca/news/anna-golubeva-wins-nserc-brassard-prize)
+- [Anna Golubeva](https://annagolubeva.github.io)
 - [Xiuzhe (Roger) Luo](http://rogerluo.me)
 - [Ejaaz Merali](https://github.com/emerali)
 - [Isaac De Vlugt](https://uwaterloo.ca/science/alumni-and-friends/science-alumni-awards/science-alumni-gold-medal-award)
+- [Dan Sehayek](https://ca.linkedin.com/in/dansehayek)
 
 ### Past
+- [Matt Beach](https://uwspace.uwaterloo.ca/handle/10012/16239)
 - [Bohdan Kulchytskyy](https://uwspace.uwaterloo.ca/handle/10012/15006)
 - [Giacomo Torlai](https://uwspace.uwaterloo.ca/handle/10012/14196)
 - [Pedro Ponte](https://uwspace.uwaterloo.ca/handle/10012/13035)
@@ -59,13 +61,12 @@ We are also interested in broader ideas in computational physics, the theory of 
 ***
 
 ## Links
-- [Perimeter Institute Quantum Intelligence Lab](https://www.perimeterinstitute.ca/research/research-initiatives/perimeter-institute-quantum-intelligence-lab-piquil)
 - [PIQuIL software](https://github.com/PIQuIL)
 - [Physics/Machine Learning Group Blog](https://physicsml.github.io)
 - [KITP Machine Learning for Quantum Many-Body Physics](https://machine19.github.io)
  
 ### In the News
-
+- [Roger Luo is honoured for his open-source software contributions](https://perimeterinstitute.ca/news/inaugural-wittek-quantum-prize-awarded-perimeter-phd-student)
 - [Quantum Machine Learning](https://insidetheperimeter.ca/quantum-machine-learning/)
 - [Intelligent Machines are Teaching Themselves Quantum Physics](https://motherboard.vice.com/en_us/article/vvxgja/machine-learning-quantum-physics-perimeter-institute-roger-melko)
 - [The most complex problem in physics could be solved by machines with brains](https://qz.com/897033/applying-machine-learning-to-physics-could-be-the-way-to-build-the-first-quantum-computer/)
