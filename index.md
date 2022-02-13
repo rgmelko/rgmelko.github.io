@@ -39,13 +39,16 @@ We are also interested in broader ideas in computational physics, the theory of 
 ## Graduate Students
 
 ### Current
-- [Anna Golubeva](https://annagolubeva.github.io)
 - [Xiuzhe (Roger) Luo](http://rogerluo.me)
 - [Ejaaz Merali](https://github.com/emerali)
-- [Isaac De Vlugt](https://uwaterloo.ca/science/alumni-and-friends/science-alumni-awards/science-alumni-gold-medal-award)
 - [Dan Sehayek](https://ca.linkedin.com/in/dansehayek)
+- [Yi-Hong Teoh](https://uwaterloo.ca/institute-for-quantum-computing/about/people/yi-hong-teoh)
+- [Schuyler Moss](https://www.linkedin.com/in/schuyler-moss)
+- [Percy Paul](https://www.researchgate.net/profile/Percy-Paul)
 
 ### Past
+- [Anna Golubeva](https://uwspace.uwaterloo.ca/handle/10012/17180)
+- [Isaac De Vlugt](https://uwspace.uwaterloo.ca/handle/10012/17862)
 - [Matt Beach](https://uwspace.uwaterloo.ca/handle/10012/16239)
 - [Bohdan Kulchytskyy](https://uwspace.uwaterloo.ca/handle/10012/15006)
 - [Giacomo Torlai](https://uwspace.uwaterloo.ca/handle/10012/14196)
