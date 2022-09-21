@@ -41,12 +41,13 @@ We are also interested in broader ideas in computational physics, the theory of 
 ### Current
 - [Xiuzhe (Roger) Luo](http://rogerluo.me)
 - [Ejaaz Merali](https://github.com/emerali)
-- [Dan Sehayek](https://ca.linkedin.com/in/dansehayek)
 - [Yi-Hong Teoh](https://uwaterloo.ca/institute-for-quantum-computing/about/people/yi-hong-teoh)
 - [Schuyler Moss](https://www.linkedin.com/in/schuyler-moss)
 - [Percy Paul](https://www.researchgate.net/profile/Percy-Paul)
+- [Ben MacLellan](https://ca.linkedin.com/in/benjaminmaclellan?trk=pub-pbmap)
 
 ### Past
+- [Dan Sehayek](https://uwspace.uwaterloo.ca/handle/10012/18599)
 - [Anna Golubeva](https://uwspace.uwaterloo.ca/handle/10012/17180)
 - [Isaac De Vlugt](https://uwspace.uwaterloo.ca/handle/10012/17862)
 - [Matt Beach](https://uwspace.uwaterloo.ca/handle/10012/16239)
