@@ -9,11 +9,9 @@
 [Associate Faculty](https://www.perimeterinstitute.ca/people/roger-melko), Perimeter Institute for Theoretical Physics
 </SPAN>
 
-<SPAN STYLE="font-size: 13pt;font-weight:bold">
-[Canada Research Chair](http://www.chairs-chaires.gc.ca/chairholders-titulaires/profile-eng.aspx?profileId=3084) in Computational Quantum Many-Body Physics
-</SPAN>
 
 **Affiliations**
+- [Co-founder](https://openquantumdesign.org), Open Quantum Design
 - [Scientific Lead](https://perimeterinstitute.ca/perimeter-institute-quantum-intelligence-lab-piquil), Perimeter Institute Quantum Intelligence Lab
 - [Faculty Affiliate](https://vectorinstitute.ai/2018/09/24/vector-institute-introduces-faculty-affiliates/), Vector Institute for Artificial Intelligence
 - [Scientific Lead](https://www.creativedestructionlab.com/people/roger-melko/), Creative Destruction Labs
@@ -39,14 +37,14 @@ We are also interested in broader ideas in computational physics, the theory of 
 ## Graduate Students
 
 ### Current
-- [Xiuzhe (Roger) Luo](http://rogerluo.me)
-- [Ejaaz Merali](https://github.com/emerali)
 - [Yi-Hong Teoh](https://uwaterloo.ca/institute-for-quantum-computing/about/people/yi-hong-teoh)
 - [Schuyler Moss](https://www.linkedin.com/in/schuyler-moss)
 - [Percy Paul](https://www.researchgate.net/profile/Percy-Paul)
 - [Ben MacLellan](https://ca.linkedin.com/in/benjaminmaclellan?trk=pub-pbmap)
 
 ### Past
+- [Ejaaz Merali](https://uwspace.uwaterloo.ca/items/2b086ef8-7a47-4831-baf1-824699e385be)
+- [Xiuzhe (Roger) Luo](https://uwspace.uwaterloo.ca/items/043c5a5f-4c97-4145-b0ce-46431f9b17a0)
 - [Dan Sehayek](https://uwspace.uwaterloo.ca/handle/10012/18599)
 - [Anna Golubeva](https://uwspace.uwaterloo.ca/handle/10012/17180)
 - [Isaac De Vlugt](https://uwspace.uwaterloo.ca/handle/10012/17862)
@@ -70,6 +68,7 @@ We are also interested in broader ideas in computational physics, the theory of 
 - [KITP Machine Learning for Quantum Many-Body Physics](https://machine19.github.io)
  
 ### In the News
+- [Waterloo startup launches open source platform for making a quantum computer](https://www.therecord.com/news/waterloo-region/waterloo-startup-launches-open-source-platform-for-making-a-quantum-computer/article_964a3843-405d-54d8-89d8-2eb805af1a68.html)
 - [Roger Luo is honoured for his open-source software contributions](https://perimeterinstitute.ca/news/inaugural-wittek-quantum-prize-awarded-perimeter-phd-student)
 - [Quantum Machine Learning](https://insidetheperimeter.ca/quantum-machine-learning/)
 - [Intelligent Machines are Teaching Themselves Quantum Physics](https://motherboard.vice.com/en_us/article/vvxgja/machine-learning-quantum-physics-perimeter-institute-roger-melko)
